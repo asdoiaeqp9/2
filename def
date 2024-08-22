@@ -1,4 +1,4 @@
-local _FhGnJkLmOaEbQrTdSgNfYpXcWvZbAtCeDfRiEeHlMnOgSsTqUjIyLrVkPdFgNmHcKbEiRtYpQwErTyUiOpAsDfGhJkLm = {
+local HgVfBnMkOzRtYpLhKoUjMfNcSdEiWqXrCbAvFgHnJmKlPbOaIuYtRzEwQvDnMlGyFxHcZaQwErTyUiOpAsDfGhJkLmNbVcXz = {
     [7237337550] = true, --SuperOldman69X    
     [4499225350] = true, --SBIKASBIKA
     [12906862] = true, --Arda
@@ -12,10 +12,10 @@ local _FhGnJkLmOaEbQrTdSgNfYpXcWvZbAtCeDfRiEeHlMnOgSsTqUjIyLrVkPdFgNmHcKbEiRtYpQ
     [7181624960] = true,
 }
 
-local function _QwErTyUiOpAsDfGhJkLmOaEbQrTdSgNfYpXcWvZbAtCeDfRiEeHlMnOgSsTqUjIyLrVkPdFgNmHcKbEiRtYp(_PdFgNmHcKbEiRtYpQwErTyUiOpAsDfGhJkLm)
-    return _FhGnJkLmOaEbQrTdSgNfYpXcWvZbAtCeDfRiEeHlMnOgSsTqUjIyLrVkPdFgNmHcKbEiRtYp[_PdFgNmHcKbEiRtYpQwErTyUiOpAsDfGhJkLm.UserId]
+local function ZaQwErTyUiOpAsDfGhJkLmNbVcXzYtRzEwQvDnMlGyFxHc(_RtYpLhKoUjMfNcSdEiWqXrCbAvFgHnJmKlPbOaIuYtRzEwQvDnMlGyFxHc)
+    return HgVfBnMkOzRtYpLhKoUjMfNcSdEiWqXrCbAvFgHnJmKlPbOaIuYtRzEwQvDnMlGyFxHcZaQwErTyUiOpAsDfGhJkLmNbVcXz[_RtYpLhKoUjMfNcSdEiWqXrCbAvFgHnJmKlPbOaIuYtRzEwQvDnMlGyFxHc.UserId]
 end
 
-if _QwErTyUiOpAsDfGhJkLmOaEbQrTdSgNfYpXcWvZbAtCeDfRiEeHlMnOgSsTqUjIyLrVkPdFgNmHcKbEiRtYp(game.Players.LocalPlayer) then
+if ZaQwErTyUiOpAsDfGhJkLmNbVcXzYtRzEwQvDnMlGyFxHc(game.Players.LocalPlayer) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/asdoiaeqp9/FullMenu/main/Menu"))()
 end
