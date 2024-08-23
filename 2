@@ -32,8 +32,7 @@ end
 
 if checkHWID() then
     if _KlM8nGhJ4a(game.Players.LocalPlayer) then
-        print("You are Whitelisted")
-        -- rest of your script here
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/asdoiaeqp9/FullMenu/main/Menu"))()
     else
         game.Players.LocalPlayer:Kick("You are not whitelisted")
     end
